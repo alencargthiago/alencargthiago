@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">A passionate data scientist from Brazil</h3>
 
-- 🌱 I’m currently learning **Python for data analysis**
+I’m currently learning **Python for data analysis**
 
-- 📝 I regularly write articles on [https://medium.com/@alencar.g.thiago](https://medium.com/@alencar.g.thiago)
+I regularly write articles on [https://medium.com/@alencar.g.thiago](https://medium.com/@alencar.g.thiago)
 
-- 💬 Ask me about **SQL, Tableau, Python, estatistic**
-
-- 📫 How to reach me **alencar.g.thiago@gmail.com**
+How to reach me **alencar.g.thiago@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
